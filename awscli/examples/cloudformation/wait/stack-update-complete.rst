@@ -5,4 +5,4 @@ The following ``wait stack-update-complete`` example pauses and resumes only aft
     aws cloudformation wait stack-update-complete \
         --stack-name "arn:aws:cloudformation:us-west-2:123456789012:stack/my-stack-1234/a1b2c3d4-5678-90ab-cdef-EXAMPLE11111"
 
-This command produces no output.
+This command produces no output. You will get your command prompt back after command is done.
